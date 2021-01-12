@@ -7,3 +7,6 @@
 [submodule "maven-demo"]
 	path = maven-demo
 	url = git@github.com:ilyin0/maven-demo.git
+[submodule "webdriverBSUTAT"]
+	path = webdriverBSUTAT
+	url = git@github.com:ilyin0/webdriverBSUTAT.git
