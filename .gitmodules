@@ -13,3 +13,6 @@
 [submodule "pageobjectBSUTAT"]
 	path = pageobjectBSUTAT
 	url = git@github.com:ilyin0/pageobjectBSUTAT.git
+[submodule "frameworkBSUTAT"]
+	path = frameworkBSUTAT
+	url = git@github.com:ilyin0/frameworkBSUTAT.git
