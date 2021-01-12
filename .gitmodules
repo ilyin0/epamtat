@@ -4,3 +4,6 @@
 [submodule "git-demo-new"]
 	path = git-demo-new
 	url = git@github.com:ilyin0/git-demo-new.git
+[submodule "maven-demo"]
+	path = maven-demo
+	url = git@github.com:ilyin0/maven-demo.git
