@@ -16,3 +16,6 @@
 [submodule "frameworkBSUTAT"]
 	path = frameworkBSUTAT
 	url = git@github.com:ilyin0/frameworkBSUTAT.git
+[submodule "cleancodelab"]
+	path = cleancodelab
+	url = git@github.com:ilyin0/cleancodelab.git
