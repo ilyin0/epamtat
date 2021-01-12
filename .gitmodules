@@ -10,3 +10,6 @@
 [submodule "webdriverBSUTAT"]
 	path = webdriverBSUTAT
 	url = git@github.com:ilyin0/webdriverBSUTAT.git
+[submodule "pageobjectBSUTAT"]
+	path = pageobjectBSUTAT
+	url = git@github.com:ilyin0/pageobjectBSUTAT.git
