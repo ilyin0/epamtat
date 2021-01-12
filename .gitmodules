@@ -1,0 +1,3 @@
+[submodule "git-demo"]
+	path = git-demo
+	url = git@github.com:ilyin0/git-demo.git
