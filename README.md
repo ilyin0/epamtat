@@ -1,3 +1,3 @@
-#Epam TAT
+# Epam TAT
 
 Test automation course repository
